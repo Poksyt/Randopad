@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmeHrTIIDOc=",
+  "success": true,
+  "projectFilePath": "D:\\Tärkeät\\coding\\SoundpadRandomSound\\soundpadcoding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poksy\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\poksy\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\poksy\\.nuget\\packages\\soundpadconnector\\1.3.1\\soundpadconnector.1.3.1.nupkg.sha512",
+    "C:\\Users\\poksy\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\poksy\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

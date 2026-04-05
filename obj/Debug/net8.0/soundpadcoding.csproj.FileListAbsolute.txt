@@ -1,0 +1,68 @@
+C:\Users\poksy\Downloads\soundpadcoding\bin\Debug\net8.0\soundpadcoding.exe
+C:\Users\poksy\Downloads\soundpadcoding\bin\Debug\net8.0\soundpadcoding.deps.json
+C:\Users\poksy\Downloads\soundpadcoding\bin\Debug\net8.0\soundpadcoding.runtimeconfig.json
+C:\Users\poksy\Downloads\soundpadcoding\bin\Debug\net8.0\soundpadcoding.dll
+C:\Users\poksy\Downloads\soundpadcoding\bin\Debug\net8.0\soundpadcoding.pdb
+C:\Users\poksy\Downloads\soundpadcoding\bin\Debug\net8.0\SoundpadConnector.dll
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\soundpadcoding.csproj.AssemblyReference.cache
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\soundpadcoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\soundpadcoding.AssemblyInfoInputs.cache
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\soundpadcoding.AssemblyInfo.cs
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\soundpadcoding.csproj.CoreCompileInputs.cache
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\soundpad.0ED8EE21.Up2Date
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\soundpadcoding.dll
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\refint\soundpadcoding.dll
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\soundpadcoding.pdb
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\soundpadcoding.genruntimeconfig.cache
+C:\Users\poksy\Downloads\soundpadcoding\obj\Debug\net8.0\ref\soundpadcoding.dll
+C:\Users\poksy\Documents\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.exe
+C:\Users\poksy\Documents\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.deps.json
+C:\Users\poksy\Documents\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.runtimeconfig.json
+C:\Users\poksy\Documents\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.dll
+C:\Users\poksy\Documents\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.pdb
+C:\Users\poksy\Documents\coding\soundpadcoding\bin\Debug\net8.0\SoundpadConnector.dll
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.csproj.AssemblyReference.cache
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.AssemblyInfoInputs.cache
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.AssemblyInfo.cs
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.csproj.CoreCompileInputs.cache
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\soundpad.0ED8EE21.Up2Date
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.dll
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\refint\soundpadcoding.dll
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.pdb
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.genruntimeconfig.cache
+C:\Users\poksy\Documents\coding\soundpadcoding\obj\Debug\net8.0\ref\soundpadcoding.dll
+D:\Tärkeät\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.exe
+D:\Tärkeät\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.deps.json
+D:\Tärkeät\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.runtimeconfig.json
+D:\Tärkeät\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.dll
+D:\Tärkeät\coding\soundpadcoding\bin\Debug\net8.0\soundpadcoding.pdb
+D:\Tärkeät\coding\soundpadcoding\bin\Debug\net8.0\SoundpadConnector.dll
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.csproj.AssemblyReference.cache
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.AssemblyInfoInputs.cache
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.AssemblyInfo.cs
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.csproj.CoreCompileInputs.cache
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\soundpad.0ED8EE21.Up2Date
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.dll
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\refint\soundpadcoding.dll
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.pdb
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\soundpadcoding.genruntimeconfig.cache
+D:\Tärkeät\coding\soundpadcoding\obj\Debug\net8.0\ref\soundpadcoding.dll
+D:\Tärkeät\coding\soundpadcoding – kopio\bin\Debug\net8.0\soundpadcoding.exe
+D:\Tärkeät\coding\soundpadcoding – kopio\bin\Debug\net8.0\soundpadcoding.deps.json
+D:\Tärkeät\coding\soundpadcoding – kopio\bin\Debug\net8.0\soundpadcoding.runtimeconfig.json
+D:\Tärkeät\coding\soundpadcoding – kopio\bin\Debug\net8.0\soundpadcoding.dll
+D:\Tärkeät\coding\soundpadcoding – kopio\bin\Debug\net8.0\soundpadcoding.pdb
+D:\Tärkeät\coding\soundpadcoding – kopio\bin\Debug\net8.0\SoundpadConnector.dll
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\soundpadcoding.csproj.AssemblyReference.cache
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\soundpadcoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\soundpadcoding.AssemblyInfoInputs.cache
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\soundpadcoding.AssemblyInfo.cs
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\soundpadcoding.csproj.CoreCompileInputs.cache
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\soundpad.0ED8EE21.Up2Date
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\soundpadcoding.dll
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\refint\soundpadcoding.dll
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\soundpadcoding.pdb
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\soundpadcoding.genruntimeconfig.cache
+D:\Tärkeät\coding\soundpadcoding – kopio\obj\Debug\net8.0\ref\soundpadcoding.dll
