@@ -1,0 +1,2 @@
+D:\Tärkeät\coding\SoundpadRandomSound\bin\Release\net8.0\win-x64\publish\Randopad.pdb
+D:\Tärkeät\coding\SoundpadRandomSound\bin\Release\net8.0\win-x64\publish\Randopad.exe
