@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Randopad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdc8c3dd04234fba757e9be9aa0729eed188ceae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+230a704ead636df0afc556de6fe45e0b65fc45ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Randopad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Randopad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -49,7 +49,8 @@ namespace SoundpadCoding
             else
             {
                 Console.WriteLine("There was an error trying to connect to Soundpad. Please ensure the program is running.");
-                return;
+                await Task.Delay(2500);
+                throw new Exception("Quitting...");
             }
             await Task.Delay(500);
         }
